@@ -1,6 +1,6 @@
 # git_test
 
-TEST MIXED WITH CSIT PROJECTS.
+TEST MIXED WITH CSIT JAVA PROJECTS.
 
 
 COINTOSS - Coin toss game of chance. Two players, first to five points wins. Guessing correctly = 1 point, guessing incorrectly = -1 points.
